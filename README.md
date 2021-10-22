@@ -1,0 +1,2 @@
+# Python-graham-scan
+:yellow_heart: A varredura de Graham é um método de encontrar a casca convexa de um conjunto finito de pontos no plano com complexidade de tempo O (n log n). É nomeado após Ronald Graham, que publicou o algoritmo original em 1972.  O algoritmo encontra todos os vértices do casco convexo ordenados ao longo de seu limite. Ele usa uma pilha para detectar e remover concavidades no limite de forma eficiente.
